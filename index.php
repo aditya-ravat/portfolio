@@ -32,7 +32,7 @@
     <i class="bi bi-list mobile-nav-toggle d-lg-none"></i>
     <!-- ======= Header ======= -->
     <?php
-        include('header');
+        include('header.php');
     ?>
 
     <!-- ======= Hero Section ======= -->
